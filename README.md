@@ -1,3 +1,5 @@
+# Do not download the source code, as that is outdated. Download from releases.
+
 # zeph-announcement
 A simple FiveM ox_lib announcement system.
 
