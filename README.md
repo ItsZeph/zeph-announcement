@@ -26,7 +26,7 @@ This is what it translates to in-game:
 ![BCSO Notice Example](https://cdn.itszeph.net/u/4SUBeM.png)
 
 # Announcement Sound
-By default my script uses the txAdmin notification sound, however this can be changed by naming your chosen sound's file to `audio.mp3` then dragging it into the html folder.
+By default my script uses the txAdmin notification sound[^1], however this can be changed by naming your chosen sound's file to `audio.mp3` then dragging it into the html folder.
 **Note:** You may be prompted to replace the existing sound when you drag it into the folder, click yes.
 
 # Important Notes
@@ -35,3 +35,6 @@ By default my script uses the txAdmin notification sound, however this can be ch
 > This was made with the assistance of Microsoft Copilot, i'm not very good at coding, so I had an AI help me. I just wanted to give people a solution to something that I haven't seen done yet. If the use of AI makes this script a turnoff for you, then I'm sorry. I just want to provide people with things I've struggled to find.
 
 ### Due to the fact that this was mostly made with AI, I can't provide much support, but I will try my best. If you do need support, DM me on [Discord](https://discord.com/users/277474842616397824) and I'll get to your DM as soon as I can.
+
+# Footnotes
+[^1]: [PAKKAZEN On Zedge](https://www.zedge.net/notification-sounds/1aa07c0e-0c08-42b8-ad3d-58d1eadf4e09)
