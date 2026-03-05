@@ -22,11 +22,14 @@ icon = 'fa-solid fa-shield',
 color = '#c9a76f',
 ```
 This is what it translates to in-game:
+
 ![BCSO Notice Example](https://cdn.itszeph.net/u/4SUBeM.png)
 
 # Announcement Sound
 By default my script uses the txAdmin notification sound, however this can be changed by naming your chosen sound's file to `audio.mp3` then dragging it into the html folder.
 **Note:** You may be prompted to replace the existing sound when you drag it into the folder, click yes.
+
+# Important Notes
 
 > [!NOTE]
 > This was made with the assistance of Microsoft Copilot, i'm not very good at coding, so I had an AI help me. I just wanted to give people a solution to something that I haven't seen done yet. If the use of AI makes this script a turnoff for you, then I'm sorry. I just want to provide people with things I've struggled to find.
