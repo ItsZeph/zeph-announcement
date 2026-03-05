@@ -5,9 +5,7 @@ A simple FiveM ox_lib announcement system.
 [ox_lib](https://coxdocs.com) (Even if you don't download this script, you should have ox_lib anyway.)
 
 # Ace Permissions
-This script has ace permissions. You can grant the permission by using the `announce.command` permission in the example format below in your server.cfg or cfg of your choice.
-
-```add_ace group.admin announce.command allow```
+This script has ace permissions, you can add the ace permission for a specific announcement type specified in your config.lua by using `add_ace group.lspdhc announce.lspd allow` for example.
 
 # Adding announcement types.
 My announcement script allows you to add different announcement types, this could be for departments, staff or general server things. Adding and removing types is easy through the included config.
