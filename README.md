@@ -34,5 +34,4 @@ By default my script uses the txAdmin notification sound[^1], however this can b
 
 ### Due to the fact that this was mostly made with AI, I can't provide much support, but I will try my best. If you do need support, DM me on [Discord](https://discord.com/users/277474842616397824) and I'll get to your DM as soon as I can.
 
-# Footnotes
 [^1]: [PAKKAZEN On Zedge](https://www.zedge.net/notification-sounds/1aa07c0e-0c08-42b8-ad3d-58d1eadf4e09)
