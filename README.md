@@ -13,7 +13,7 @@ This script has ace permissions. You can grant the permission by using the `anno
 My announcement script allows you to add different announcement types, this could be for departments, staff or general server things. Adding and removing types is easy through the included config.
 
 # Changing the look of your announcement.
-In terms of the colouring of the notification itself, that is done through ox_lib convars, which can be found on their [documentation](https://coxdocs.dev/ox_lib/Modules/Interface). However, my script natively allows you to change the colour of the icon, and the icon on the notification, and the title.
+In terms of the colouring of the notification itself, that is done through ox_lib convars, which can be found on their [documentation](https://coxdocs.dev/ox_lib/Modules/Interface). However, my script natively allows you to change the colour of the icon, and the icon on the notification, and the title in the config.lua
 
 In the example below, I have made a BCSO Notice, with a beige colour and a shield icon.
 ```
