@@ -2,7 +2,7 @@
 A simple FiveM ox_lib announcement system.
 
 # Requirements
-[ox_lib](https://coxdocs.com) (Even if you don't download this script, you should have ox_lib anyway.)
+[ox_lib](https://coxdocs.dev) (Even if you don't download this script, you should have ox_lib anyway.)
 
 # Ace Permissions
 This script has ace permissions, you can add the ace permission for a specific announcement type specified in your config.lua by using `add_ace group.lspdhc announce.lspd allow` for example.
