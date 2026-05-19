@@ -1,3 +1,6 @@
+> [!WARNING]
+> I do not plan on updating this resource anymore, I might, but it's not planned.
+
 # zeph-announcement
 A simple FiveM ox_lib announcement system.
 
